@@ -4,6 +4,7 @@ Ensure that you have installed Phantoscope in your operating system. See [Instal
 
 ## Prepare Your Environment
 ```bash
+$ cd scripts
 $ chmod +x prepare.sh
 $ ./prepare.sh
 ```
